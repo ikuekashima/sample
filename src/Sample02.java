@@ -1,7 +1,7 @@
 public class Sample02
 
     public static void main(String[] args) {
-        int num1 = 100;
+        int price = 100;
         int num2 = 10;
         int result;
         result = sumMethod2(num1, num2);
